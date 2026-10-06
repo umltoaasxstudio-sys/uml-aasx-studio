@@ -1,6 +1,6 @@
-﻿# UML AASX Creator - Public Distribution
+﻿# UML AASX Studio - Public Distribution
 
-This repository is the **public distribution channel** for UML AASX Creator.
+This repository is the **public distribution channel** for UML AASX Studio.
 
 ## Application Screenshot
 
@@ -36,7 +36,7 @@ If Windows shows a security warning, this usually means the app is not yet trust
 PowerShell example:
 
 ```powershell
-Get-FileHash .\UML-AASX-Creator-Setup-0.1.7.exe -Algorithm SHA256
+Get-FileHash .\UML-AASX-Studio-Setup-0.1.7.exe -Algorithm SHA256
 ```
 
 Compare the output with `release-assets/checksums.txt`.
