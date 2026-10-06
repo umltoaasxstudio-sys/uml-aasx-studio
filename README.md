@@ -6,11 +6,11 @@ This repository is the **public distribution channel** for UML AASX Creator.
 
 UML diagram edited in the desktop app:
 
-![UML AASX Creator UI](docs/images/uml-aasx-creator-020.png)
+![UML AASX Studio UI](docs/images/uml-aasx-studio.png)
 
 AASX package opened after export from the same diagram:
 
-![UML AASX Creator Exported AASX](docs/images/uml-aasx-creator-exportaasx-020.png)
+![UML AASX Studio Exported AASX](docs/images/uml-aasx-studio-exportaasx.png)
 
 ## What is included
 
