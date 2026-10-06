@@ -39,3 +39,26 @@ PowerShell example:
 
 ```powershell
 Get-FileHash .\UML-AASX-Studio-Setup-<version>.exe -Algorithm SHA256
+```
+
+## Third-party licenses
+
+This distribution includes third-party software under their respective licenses.
+
+- `THIRD_PARTY_LICENSES.md`
+- `third_party/THIRD_PARTY_NOTICES.md`
+- `third_party/license_texts/`
+
+## Source code
+
+The source repository is private. This public repository is intended only for binary distribution and legal notices.
+
+## Support
+
+If you find an issue, open a GitHub Issue in this repository and include:
+
+- App version
+- Windows version
+- Steps to reproduce
+- Screenshots or logs, if available
+
