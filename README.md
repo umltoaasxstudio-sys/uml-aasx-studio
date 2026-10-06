@@ -21,7 +21,7 @@ AASX package opened after export from the same diagram:
 ## Download and install
 
 1. Go to the **Releases** page.
-2. Download the latest installer: `UML-AASX-Creator-Setup-<version>.exe`.
+2. Download the latest installer: `UML-AASX-Studio-Setup-<version>.exe`.
 3. Run the installer and follow the setup steps.
 
 ## Windows security warning (SmartScreen)
